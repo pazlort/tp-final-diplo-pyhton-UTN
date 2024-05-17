@@ -1,0 +1,9 @@
+letra = "Arial"
+estilo = "bold"
+tamaño_title = 20
+tamaño_text = 11
+param_fg = "#5e6472"
+param_bg = "#FFBCBA"
+letra_boton='Arial'
+size_boton=10
+color_boton = '#faf3dd'
